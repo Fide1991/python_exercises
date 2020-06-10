@@ -8,7 +8,7 @@ for i in range(1, 21):
     print(tabla)
 
 #reto 3 Calcula la suma de los números impares ubicados entre el 50 y el 100
-suma=0
+suma = 0
 
 for i in range(51, 100, 2):
     suma += i
